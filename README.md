@@ -1,1 +1,1 @@
-This is repo to share my Souls-Like GameDemo in UE5
+This is a repo to share my Souls-Like GameDemo in UE5.
