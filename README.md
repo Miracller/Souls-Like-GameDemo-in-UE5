@@ -1,5 +1,6 @@
 This is a repo to share my Souls-Like GameDemo in UE5.
 
+### Presentation Section
 
 Preview video:
 
@@ -14,6 +15,10 @@ Dodge gif:
 https://github.com/user-attachments/assets/9f9e362d-33e1-4372-b999-984e03dc0238
 
 
+------
+
+### Notion Note Section: (笔记链接)
+https://www.notion.so/UE-slash-1a5171de03fd80e4b3cae200b9060691?pvs=4
 
 ------
 
